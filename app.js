@@ -17,7 +17,7 @@ function openModal(type) {
 
         options = `
             <!-- LINKII HAARAA: STUDENT REGISTRATION -->
-            <a class="option" href="https://keyraddiin18-prog.github.io/KEYRADDIIN-STUDENT-ID/index.html" target="_blank">
+            <a class="option" href="https://keyraddiin18-prog.github.io/KEYRADDIIN-STUDENT-ID/" target="_blank">
                 <div class="option-icon">📝</div>
                 <div class="option-text">
                     <strong>Student Registration</strong>
